@@ -1,0 +1,242 @@
+# iOS Games Ads Blocker - Updated November 2025
+# Covers Unity, AppLovin, Moloco, Vungle/Liftoff, IronSource, Chartboost, AdColony, Fyber, Mintegral, Pangle and more
+
+# Google Ads / AdMob (base)
+||adservice.google.com^
+||*.adservice.google.com^
+||ads.google.com^
+||*.ads.google.com^
+||mobileads.google.com^
+||*.mobileads.google.com^
+||pagead2.googlesyndication.com^
+||*.pagead2.googlesyndication.com^
+||googleads.g.doubleclick.net^
+||*.googleads.g.doubleclick.net^
+||admob.com^
+||*.admob.com^
+||admob-gmats.google.com^
+||*.admob-gmats.google.com^
+||apps.admob.com^
+||*.apps.admob.com^
+
+# Unity Ads
+||unity.com^
+||*.unity.com^
+||unity3d.com^
+||*.unity3d.com^
+||unityads.unity3d.com^
+||*.unityads.unity3d.com^
+||ads.unity3d.com^
+||*.ads.unity3d.com^
+||ads.unityads.unity3d.com^
+||*.ads.unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||*.config.unityads.unity3d.com^
+||ad.unity.com^
+||*.ad.unity.com^
+||iads.unity3d.com^
+||*.iads.unity3d.com^
+||thind-gke-euw.unityads.unity3d.com^
+||*.thind-gke-euw.unityads.unity3d.com^
+||thind-gke-usw.unityads.unity3d.com^
+||*.thind-gke-usw.unityads.unity3d.com^
+||thind-gke-apj.unityads.unity3d.com^
+||*.thind-gke-apj.unityads.unity3d.com^
+
+# AppLovin
+||applovin.com^
+||*.applovin.com^
+||a.applovin.com^
+||*.a.applovin.com^
+||d.applovin.com^
+||*.d.applovin.com^
+||ms.applovin.com^
+||*.ms.applovin.com^
+||pdn.applovin.com^
+||*.pdn.applovin.com^
+||rt.applovin.com^
+||*.rt.applovin.com^
+||vid.applovin.com^
+||*.vid.applovin.com^
+
+# IronSource / Supersonic
+||ironsrc.com^
+||*.ironsrc.com^
+||ironsrc.mobi^
+||*.ironsrc.mobi^
+||supersonicads.com^
+||*.supersonicads.com^
+||outcome-ssp.supersonicads.com^
+||*.outcome-ssp.supersonicads.com^
+||rec-sys.supersonicads.com^
+||*.rec-sys.supersonicads.com^
+||ads.supersonic.com^
+||*.ads.supersonic.com^
+
+# Vungle / Liftoff
+||vungle.com^
+||*.vungle.com^
+||vunglecloud.com^
+||*.vunglecloud.com^
+||api.vungle.com^
+||*.api.vungle.com^
+||ads.vungle.com^
+||*.ads.vungle.com^
+||ads-*.vungle.com^
+||vungle.akadns.net^
+||*.vungle.akadns.net^
+||liftoff.io^
+||*.liftoff.io^
+||ads.liftoff.io^
+||*.ads.liftoff.io^
+||cdn.liftoff.io^
+||*.cdn.liftoff.io^
+||hero.liftoff.io^
+||*.hero.liftoff.io^
+||liftoff-services.io^
+||*.liftoff-services.io^
+
+# Chartboost
+||chartboost.com^
+||*.chartboost.com^
+||answers.chartboost.com^
+||*.answers.chartboost.com^
+
+# AdColony
+||adcolony.com^
+||*.adcolony.com^
+||adc-adcolony.com^
+||*.adc-adcolony.com^
+||ads30.adcolony.com^
+||*.ads30.adcolony.com^
+||wd.adcolony.com^
+||*.wd.adcolony.com^
+||ads.api.adcolony.com^
+||*.ads.api.adcolony.com^
+
+# Fyber / Inneractive
+||fyber.com^
+||*.fyber.com^
+||engine.fyber.com^
+||*.engine.fyber.com^
+||banner.fyber.com^
+||*.banner.fyber.com^
+||offer.fyber.com^
+||*.offer.fyber.com^
+
+# Mintegral
+||mintegral.com^
+||*.mintegral.com^
+||ads.mintegral.com^
+||*.ads.mintegral.com^
+||ads.mp.mgid.com^
+||*.ads.mp.mgid.com^
+||devp.mintegral.net^
+||*.devp.mintegral.net^
+
+# Pangle / TikTok Ads
+||pangle.io^
+||*.pangle.io^
+||pangle-ads.com^
+||*.pangle-ads.com^
+||pangle.cn^
+||*.pangle.cn^
+||ttlivepush.com^
+||*.ttlivepush.com^
+
+# Moloco (recent additions)
+||moloco.com^
+||*.moloco.com^
+||cdn-f.adsmoloco.com^
+||*.cdn-f.adsmoloco.com^
+||adsmoloco.com^
+||*.adsmoloco.com^
+||ads-adserver.moloco.com^
+||*.ads-adserver.moloco.com^
+||rdr.moloco.com^
+||*.rdr.moloco.com^
+||cache-ssl.moloco.com^
+||*.cache-ssl.moloco.com^
+
+# Others (Yahoo, LinkedIn, Appodeal, etc.)
+||ads.yahoo.com^
+||*.ads.yahoo.com^
+||ads.linkedin.com^
+||*.ads.linkedin.com^
+||track.appodeal.com^
+||*.track.appodeal.com^
+||appodeal.com^
+||*.appodeal.com^
+
+# Bonus aggressive (new 2025 networks)
+||ogury.io^
+||*.ogury.io^
+||ads.ogury.io^
+||*.ads.ogury.io^
+||inmobi.com^
+||*.inmobi.com^
+||adserver.inmobi.com^
+||*.adserver.inmobi.com^
+||smaato.com^
+||*.smaato.com^
+||mobfox.com^
+||*.mobfox.com^
+
+
+
+
+
+# ═════════════════════════════════════════
+# YouTube Ads Blocker – Noiembrie 2025 (iOS/Android/TV/PC)
+# Funcționează 100% pe AdGuard Home (Merlin)
+# ═════════════════════════════════════════
+
+# Google Ads generale
+||googleads.g.doubleclick.net^
+||*.googleads.g.doubleclick.net^
+||googleadservices.com^
+||*.googleadservices.com^
+||pagead2.googlesyndication.com^
+||*.pagead2.googlesyndication.com^
+||googlesyndication.com^
+||*.googlesyndication.com^
+||doubleclick.net^
+||*.doubleclick.net^
+||ads.youtube.com^
+||*.ads.youtube.com^
+
+# Domenii YouTube specifice reclame
+||youtube.com/api/stats/ads^
+||youtube.com/api/stats/qoe^
+||youtube.com/pagead/
+||youtube.com/get_video_ads^
+||youtube.com/ptracking^
+||youtube.com/pcs/
+||youtube.com/adbreak^
+||youtube.com/videoplayback?*&adformat=*
+||youtube.com/videoplayback?*&ad_*
+
+# Manifest-uri și segmente cu reclame
+||manifest.googlevideo.com/api/manifest/ads^
+||*.googlevideo.com/videoplayback?*&adformat=*
+||*.googlevideo.com/videoplayback?*&ad_*
+
+# Shorts + Live + alte chestii enervante
+||youtube.com/shorts/$popup
+||youtube.com/live_chat
+||youtube.com/api/live_chat
+
+# Tracking și telemetry (opțional, dar curăță și mai bine)
+||s0.2mdn.net^
+||*.2mdn.net^
+||video-ad-stats.googlesyndication.com^
+||youtubei.googleapis.com/youtubei/v1/reel^
+
+
+||youtube.com/*/adbreak?
+||youtube.com/*/ptracking?
+||youtube.com/api/spotlight
+
+
+||s0.2mdn.net^
+||*.2mdn.net^
