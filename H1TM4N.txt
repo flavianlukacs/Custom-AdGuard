@@ -248,4 +248,8 @@
 ||youtube.com/pcs/activeview?xai=$important^
 ||youtube.com/pagead/interaction/$important^
 ||youtube.com/pagead/interaction/?ai=$important^
-
+||youtube.com/youtubei/$important^
+||youtube.com/youtubei/v1/$important^
+||youtube.com/pagead/interaction/?ai=*$all^
+||youtube.com/pagead/interaction/adview?ai=*$all^
+||youtube.com/pagead/*$all^
