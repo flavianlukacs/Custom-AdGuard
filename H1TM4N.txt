@@ -236,7 +236,16 @@
 ||youtube.com/*/adbreak?
 ||youtube.com/*/ptracking?
 ||youtube.com/api/spotlight
-
-
 ||s0.2mdn.net^
 ||*.2mdn.net^
+
+
+# SOLUȚIA FINALĂ 2025 – blochează orice conține /pagead/ sau /api/stats/ sau /pcs/ (100 % curat)
+||youtube.com/pagead/$important^
+||youtube.com/api/stats/$important^
+||youtube.com/pcs/$important^
+||youtube.com/pagead/adview?ai=$important^
+||youtube.com/pcs/activeview?xai=$important^
+||youtube.com/pagead/interaction/$important^
+||youtube.com/pagead/interaction/?ai=$important^
+
